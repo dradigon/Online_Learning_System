@@ -1,5 +1,5 @@
 
-# **📚 Online Learning Management System (Version 2.0)**  
+# **📚 Online Learning Management System **  
 
 ## **📌 Overview**  
 This project is an **Online Learning Management System** that allows instructors to upload courses and students to enroll in them. It includes:  
@@ -101,6 +101,4 @@ This project is an **Online Learning Management System** that allows instructors
 This project is **open-source and for educational purposes only**.  
 
 ---
-
-Now you can **edit this directly in chat** as needed! 🚀😊 Let me know if you need any modifications.
 
