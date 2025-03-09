@@ -1,6 +1,3 @@
-Got it! Here's your **README.md** file directly in chat so you can edit as needed:  
-
----
 
 # **📚 Online Learning Management System (Version 2.0)**  
 
