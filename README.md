@@ -77,15 +77,7 @@ This project is an **Online Learning Management System** that allows instructors
 
 ---
 
-## **🖼️ Screenshots & Demo**  
-📌 **Instructor Dashboard**  
-![Instructor](images/instructor_dashboard.png)  
-
-📌 **Student Enrollment**  
-![Student Enrollment](images/student_enrollment.png)  
-
-📌 **Search Functionality**  
-![Search](images/search_function.png)  
+#
 
 ---
 
